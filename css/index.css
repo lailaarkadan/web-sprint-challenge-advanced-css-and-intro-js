@@ -132,8 +132,9 @@ button:hover{
     text-align:center;
 }
 .artist img{
-width: 80%;
+width: 100%;
 }
+
 @media(max-width: 500px){
     .title-container{
         display:flex;
