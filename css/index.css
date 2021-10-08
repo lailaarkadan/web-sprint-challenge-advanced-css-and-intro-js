@@ -134,8 +134,7 @@ button:hover{
 .artist img{
 width: 100%;
 }
-
-@media(max-width: 500px){
+@media only screen and (max-width: 595px) {
     .title-container{
         display:flex;
         flex-wrap: wrap;
@@ -179,3 +178,6 @@ width: 100%;
       margin: 0 7%;
     }
   }
+
+
+    
